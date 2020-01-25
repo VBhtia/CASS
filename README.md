@@ -1,0 +1,2 @@
+# CASS
+CASS är ett system som med hjälp av en kamera läser av en persons ansiktsuttryck och tolkar personens känslor. Detta kan vara mycket användbart, framför allt i säljsituationer och för att ge återkoppling på reklam. Systemet är baserat på fristående enheter som gör lokala uppskattningar. Genom att skicka information till ett moln av sammankopplade enheter går det att nå ännu bättre resultat.
